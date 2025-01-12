@@ -3,7 +3,8 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am highly motivated entry-level IT professional with a strong interest in cybersecurity with plans to pursue a
+bachelor's degree in the future. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -46,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
 <img src="https://github.com/user-attachments/assets/24a6055b-796b-48f6-a53a-0697ccbca941" width="300" height="200" />
