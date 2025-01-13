@@ -16,7 +16,7 @@ Test line
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| API Development & Hardening         | <a href="https://google.com">Detection Lab</a>|
+| API Development & Hardening         | <a href="https://google.com">Space Holder</a>|
 
 
 ## Tools
