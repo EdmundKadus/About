@@ -3,8 +3,7 @@
 
 
 
-I am highly motivated entry-level IT professional with a strong interest in cybersecurity with plans to pursue a
-bachelor's degree in the future. 
+I am highly motivated entry-level IT professional with a strong interest in cybersecurity.
 
 ## Objective
 This will sorta be my temporary portfolio until I have the time to set up one for hosting.
