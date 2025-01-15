@@ -45,8 +45,8 @@ Test line
 
 <div>
 
-<img src="https://github.com/user-attachments/assets/24a6055b-796b-48f6-a53a-0697ccbca941" width="300" height="200" />
 
+<a href="https://github.com/user-attachments/assets/24a6055b-796b-48f6-a53a-0697ccbca941">Cisco Certified Network Associate</a>
  
 </div>
 
