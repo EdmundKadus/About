@@ -15,7 +15,7 @@ Test line
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| API Development & Hardening         | <a href="https://google.com">Space Holder</a>|
+| A network port scanner made with Python         | <a href="https://google.com">Space Holder</a>|
 
 
 ## Tools
