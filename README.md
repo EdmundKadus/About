@@ -1,6 +1,4 @@
 # Hello, I'm Edmund
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 
 I am highly motivated entry-level IT professional with a strong interest in cybersecurity.
@@ -8,9 +6,9 @@ I am highly motivated entry-level IT professional with a strong interest in cybe
 ## Objective
 This will sorta be my temporary portfolio until I have the time to set up one for hosting.
 
-Test line
 
-## Skills
+
+## Skills & Project
 
 
 | Skill                                         | Associated Project         |
@@ -50,6 +48,4 @@ Test line
  
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
