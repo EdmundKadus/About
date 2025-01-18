@@ -44,8 +44,8 @@ This will sorta be my temporary portfolio until I have the time to set up one fo
 <div>
 
 
-<a href="https://github.com/user-attachments/assets/24a6055b-796b-48f6-a53a-0697ccbca941">Cisco Certified Network Associate</a>
- 
+<a href="https://github.com/user-attachments/assets/24a6055b-796b-48f6-a53a-0697ccbca941">Cisco Certified Network Associate</a> | 
+<a href="https://www.credly.com/badges/425540c5-358a-48b4-a4f5-f2c689777b0b/public_url">Credly Link</a>
 </div>
 
 
