@@ -1,6 +1,6 @@
 # Hello, I'm Edmund
 
-I have a growing passion in IT.
+I am interested in Information Technology and the security that revolves around them. Would love to study & do a deeper dive in encryption some time.
 
 
 
