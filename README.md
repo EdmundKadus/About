@@ -1,6 +1,6 @@
 # Hello, I'm Edmund
 
-I am interested in Information Technology and the security that revolves around them. Would love to study & do a deeper dive in encryption some time.
+I am interested in Information Technology and the security that revolves around them. Trying to built up my foundation as a generalist.
 
 
 
@@ -11,7 +11,7 @@ I am interested in Information Technology and the security that revolves around 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory, Powershell scripting          | <a href="https://github.com/EdmundKadus/Active-Directory-Home-Lab.git">AD Home Lab</a>|
-| Linux firewall configuration, Bash & IPtable          | <a href="">Linux Firewall</a>|
+| Linux firewall Configuration          | <a href="https://github.com/EdmundKadus/Linux-Firewall.git">Linux Firewall</a>|
 
 ## CTFs
 
