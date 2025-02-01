@@ -11,7 +11,7 @@ I am interested in Information Technology and the security that revolves around 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory, Powershell scripting          | <a href="https://github.com/EdmundKadus/Active-Directory-Home-Lab.git">AD Home Lab</a>|
-| Linux firewall Configuration          | <a href="https://github.com/EdmundKadus/Linux-Firewall.git">Linux Firewall</a>|
+| Linux IPTables, Bash         | <a href="https://github.com/EdmundKadus/Linux-Firewall.git">Linux Firewall</a>|
 
 ## CTFs
 
