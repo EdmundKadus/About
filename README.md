@@ -1,7 +1,6 @@
 # Hello, I'm Edmund
 
-I am interested in Information Technology and the security that revolves around them. Trying to built up my foundation as a generalist.
-
+I am interested in Information Technology and the security that revolves around them. 
 
 
 
