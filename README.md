@@ -1,6 +1,6 @@
 # Hello, I'm Edmund
 
-I am interested in Information Technology and the security that revolves around them. 
+Interested in all things information technology. 
 
 
 
