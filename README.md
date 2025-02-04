@@ -1,6 +1,6 @@
 # Hello, I'm Edmund
 
-Interested in all things information technology. 
+Passionate about information technology, with a focus on network-connected systems and technologies.
 
 
 
